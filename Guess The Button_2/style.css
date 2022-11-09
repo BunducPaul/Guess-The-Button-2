@@ -1,0 +1,65 @@
+.container {
+    position: relative;
+    top: 100px;
+    height:300px;
+    width: 800px;
+    font-size:large;
+}
+.buttons_And_message{
+    position: relative;
+    top: 180px;
+    width: 600px;
+    font-size:large;
+    color: #FBF8BE;
+}
+.card {
+    position: relative;
+    background: #fbf8be ;
+    height: 265px;
+}
+.form-group {
+    position: relative;
+    background: #fbf8be ;
+    bottom: -5px;
+}
+.form-control{
+    background: #F2DCC4; 
+    border: #504949"
+}
+.form-control:focus{
+    color: rgb(0, 0, 0);
+    background-color: #F2DCC4;
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    border: 2px solid hsl(0, 0%, 0%);  
+}
+.btn-primary {
+    position: relative;
+    bottom: -51px;
+    background: #E0A96D; 
+    border-color: #F2DCC4;
+
+}
+.btn-primary:hover {
+    background-color: #E0A96D;
+    border-color: #F2DCC4;
+  }
+.btn-primary:active:focus {
+    background-color: #E0A96D;
+    border-color: #F2DCC4;
+  }
+button {
+    background-color:#FBF8BE ;
+    border-radius:10px;
+    border: 2px solid hsl(0, 0%, 0%);  
+    }
+body {
+    background-color: #234E70;
+}
+.form-control:focus {
+    border-color: #E0A96D;
+    box-shadow: 0 0 0 0.2rem #E0A96D;
+}
+.button-class {
+    height:50px;
+    width: 90px;
+}
